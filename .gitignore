@@ -167,3 +167,9 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+# 기타 파일들 / 연습 중에 올려야할 필요 느껴지면 ignore에서 빼주기
+HELP.md
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
